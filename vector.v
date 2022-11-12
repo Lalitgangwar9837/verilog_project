@@ -5,6 +5,7 @@ module vector();
     a=8'b1100_1010;
     b=a[6:4]; // vector part select from 6 to 4
     $display ("a=%b\tb=%b",a,b);
+    
   end 
 endmodule
 
