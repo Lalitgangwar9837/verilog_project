@@ -39,6 +39,7 @@ module arithmetic();
       DIVIDE=divide(9,3);
       SUB=sub(9,5);
       $display("sum=%0d\t,sub=%0d\t,multiply=%0d\t,divide=%0d",SUM,SUB,MULTIPLY,DIVIDE);
+      
     end
 endmodule
     
